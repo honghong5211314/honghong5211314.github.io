@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Yanshan%20University-Computer%20Science-0277bd" /> 
 
 *   **Period:** Sept. 2024 - Present
-*   **Ranking:** Merit Student (Top %)
+*   **Ranking:** Merit Student (Top 15 %)
 *   **Awards:** Recipient of Multiple University-level Scholarships
 
 ### 📊 Standardized Tests
