@@ -10,56 +10,73 @@ redirect_from:
 
 I am **Shuo Zhao (赵朔)**, a sophomore undergraduate student majoring in **Computer Science and Technology** at [Yanshan University](https://www.ysu.edu.cn/).
 
-My academic interests lie at the intersection of **Artificial Intelligence** and **Embedded Robotics**. Specifically, I am enthusiastic about designing lightweight deep learning models (CNNs, Transformers) and deploying them on edge devices for real-time perception.
+> 🚀 **Current Status:** I am actively looking for **Research Internship** opportunities. I am ready for international academic collaboration with strong English proficiency.
 
-Currently, I am looking for **Research Internship** opportunities. I possess strong English proficiency (TOEFL 107, GRE 335) and am ready for international academic collaboration.
+My academic interests lie at the intersection of **Artificial Intelligence** and **Embedded Robotics**. Specifically, I am enthusiastic about:
+*   **Lightweight Deep Learning:** Designing efficient models (CNNs, Transformers).
+*   **Edge Intelligence:** Deploying algorithms on edge devices for real-time perception.
 
-<i class="fas fa-download"></i> [Download My CV (PDF)](/files/resume.pdf) {: .btn .btn--primary}
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <a href="/files/resume.pdf" class="btn btn--primary btn--large"><i class="fas fa-download"></i> Download My CV (PDF)</a>
+</div>
 
-# 🎓 Education
+---
 
-*   **B.Eng. in Computer Science and Technology**, Yanshan University
-    *   **Academic Performance:** Merit Student of Yanshan University; Recipient of Multiple University-level Scholarships.
-    *   **Standardized Tests:**
-        *   **TOEFL:** 107 (Reading/Listening High Scores)
-        *   **GRE:** 332 (Verbal 165 + Quantitative 167) + Writing 4.5
-    *   **Relevant Coursework:** Introduction to AI, Object-Oriented Programming (C++), Python Programming, Data Structures, Discrete Mathematics, Algorithm Analysis.
+## 🎓 Education
 
-# 🔬 Research Interests
+**B.Eng. in Computer Science and Technology** <br>
+*Yanshan University* | *Sept. 2022 - Present*
 
-*   **Computer Vision (CV):** Image Recognition, Object Detection.
-*   **Deep Learning Architectures:** Design and optimization of CNN, RNN, and Transformer models.
-*   **Embedded Intelligence:** Edge computing and robotic control systems.
+*   **GPA/Ranking:** Merit Student (Top %)
+*   **Standardized Tests:**
+    *   🇺🇸 **TOEFL:** `107` (High proficiency in Reading/Listening)
+    *   🇺🇸 **GRE:** `332` (V 165 + Q 167) + AW 4.5
+*   **Core Courses:** 
+    `Introduction to AI` `Object-Oriented Programming (C++)` `Data Structures` `Discrete Mathematics` `Algorithm Analysis`
 
-# 💻 Selected Projects
+---
 
-**Global Campus AI Algorithm Elite Competition** | *Team Leader & Algorithm Developer*
-*   Participated in the "Algorithm Elite" track and won the **National First Prize**.
-*   Developed a robust deep learning model to solve specific visual tasks.
-*   Optimized the model architecture to balance accuracy and inference speed.
+## 💻 Selected Projects
 
-**"Challenge Cup" Entrepreneurship Plan** | *Core Member*
-*   Won the **Provincial Award** for an innovative tech proposal.
-*   Contributed to the technical feasibility analysis and system architecture design.
-*   Demonstrated the application of AI technology in real-world scenarios.
+### 🏆 Global Campus AI Algorithm Elite Competition
+*Role: Team Leader & Algorithm Developer*
 
-# 🏅 Honors & Awards
+*   **Achievement:** Won the <span style="color: #c0392b; font-weight: bold;">National First Prize</span>.
+*   **Contribution:** 
+    *   Developed a robust deep learning model to solve specific visual recognition tasks.
+    *   Optimized the model architecture (balanced accuracy vs. inference speed) for the competition dataset.
+*   **Tech Stack:** `PyTorch` `ResNet` `Data Augmentation`
 
-**National & International**
-*   **First Prize**, The 7th Global Campus AI Algorithm Elite Competition (Finals)
-*   **Second Prize**, National College Student English Competition (NECCS) (National Finals)
+### 💡 "Challenge Cup" Entrepreneurship Plan
+*Role: Core Member*
 
-**Provincial & Institutional**
-*   **Provincial Award**, "Challenge Cup" College Students' Entrepreneurship Plan Competition
-*   **Merit Student**, Yanshan University (Awarded to top % students)
-*   **Excellent Class Cadre**, Yanshan University
-*   **University Scholarship** (Multiple times)
+*   **Achievement:** Won the **Provincial Award** for an innovative tech proposal.
+*   **Contribution:** 
+    *   Conducted technical feasibility analysis.
+    *   Designed the system architecture demonstrating AI application in real-world scenarios.
+*   **Tech Stack:** `System Design` `Feasibility Analysis`
 
-# 🛠️ Technical Skills
+---
 
-*   **Programming:** Python, C/C++
-*   **AI Frameworks:** PyTorch, TensorFlow
-*   **Tools & Platforms:** Git, Embedded Systems Development
-*   **Languages:** 
-    *   **English:** Professional Working Proficiency (TOEFL 107 / GRE 335)
+## 🏅 Honors & Awards
+
+| Year | Award | Level |
+|:----:|:------|:-----|
+| 2024 | 🥇 **First Prize**, The 7th Global Campus AI Algorithm Elite Competition | National |
+| 2024 | 🥈 **Second Prize**, National College Student English Competition (NECCS) | National |
+| 2023 | 🥉 **Provincial Award**, "Challenge Cup" Entrepreneurship Plan | Provincial |
+| 2023 | 🎖️ **Merit Student** & **University Scholarship** | Institutional |
+
+---
+
+## 🛠️ Technical Skills
+
+*   **Languages:**  
+    `Python` `C/C++` `MATLAB`
+*   **Deep Learning:**  
+    `PyTorch` `TensorFlow` `CNN` `Transformer`
+*   **Development Tools:**  
+    `Git` `Linux` `VS Code` `Docker`
+*   **Languages Proficiency:**  
+    *   **English:** Professional Working Proficiency (TOEFL 107 / GRE 332)
     *   **Chinese:** Native Speaker
