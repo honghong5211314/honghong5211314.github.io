@@ -12,7 +12,7 @@ Below is a collection of my selected research and engineering projects, highligh
 ---
 
 ## 🏆 Global Campus AI Algorithm Elite Competition
-**Role:** Team Leader & Algorithm Developer | *2024*
+**Role:** Team Leader & Algorithm Developer | *2025.8-2025.12*
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <span style="background-color: #ffebee; color: #c62828; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em;">🥇 National First Prize</span>
@@ -33,13 +33,13 @@ Participated in the "Algorithm Elite" track of this prestigious national competi
     *   Balanced accuracy and inference speed by pruning redundant channels, achieving a **top-tier inference time** on the test set.
     *   Used **MixUp** and **CutMix** data augmentation strategies to solve the overfitting problem caused by insufficient training data.
 *   **Results:** 
-    *   Achieved **98.5% accuracy** (example metric) on the validation set.
+    *   Achieved **94.9% accuracy** (example metric) on the validation set.
     *   Ranked in the top 1% nationwide, winning the National First Prize.
 
 ---
 
 ## 💡 "Challenge Cup" Entrepreneurship Plan Competition
-**Role:** Core Member (Technical Lead) | *2023*
+**Role:** Core Member (Technical Lead) | *2025.10-Now*
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <span style="background-color: #fff3e0; color: #ef6c00; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em;">🥉 Provincial Award</span>
