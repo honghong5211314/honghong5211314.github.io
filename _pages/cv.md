@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="margin-bottom: 20px;">
+  <a href="/files/resume.pdf" class="btn btn--primary"><i class="fas fa-download"></i> Download Full CV (PDF)</a>
+</div>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*   **B.Eng. in Computer Science and Technology**, Yanshan University, China
+    *   *Sept. 2022 - Present*
+    *   **GPA/Ranking:** Merit Student (Top %)
+    *   **Scholarships:** Recipient of Multiple University-level Scholarships.
 
-Work experience
+Standardized Tests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*   **TOEFL:** `107` (Reading/Listening High Scores)
+*   **GRE:** `332` (Verbal 165 + Quantitative 167) + AW 4.5
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research & Projects
+======
+**Global Campus AI Algorithm Elite Competition**
+*   *Team Leader & Algorithm Developer* | *2024*
+*   Led the team to win the **National First Prize**.
+*   Designed a deep learning model for visual recognition tasks using PyTorch.
+*   Implemented data augmentation strategies to improve model robustness on small datasets.
+*   Optimized the backbone network (ResNet variants) to balance inference speed and accuracy.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+**"Challenge Cup" Entrepreneurship Plan**
+*   *Core Member* | *2023*
+*   Won the **Provincial Award** for a tech-driven entrepreneurship proposal.
+*   Responsible for the technical feasibility study and system architecture design.
+*   Drafted the technical section of the business plan, explaining AI application scenarios to non-technical judges.
+
+Honors & Awards
+======
+*   **National First Prize**, The 7th Global Campus AI Algorithm Elite Competition, 2024
+*   **National Second Prize**, National College Student English Competition (NECCS), 2024
+*   **Provincial Award**, "Challenge Cup" Entrepreneurship Plan Competition, 2023
+*   **Merit Student**, Yanshan University (Awarded to top students), 2023
+*   **Excellent Class Cadre**, Yanshan University
+*   **University Scholarship** (Multiple times)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*   **Programming Languages:** Python, C/C++, MATLAB
+*   **Deep Learning Frameworks:** PyTorch, TensorFlow
+*   **Tools & Platforms:** Git, Linux, Docker, VS Code
+*   **Hardware/Embedded:** Basic Embedded Systems Development
+*   **Languages:** 
+    *   English (TOEFL 107 / GRE 332)
+    *   Chinese (Native)
 
+<!-- 
+如果你以后有论文了，把下面的注释符号去掉就可以显示了 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
