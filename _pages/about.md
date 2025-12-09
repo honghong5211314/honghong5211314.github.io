@@ -22,7 +22,7 @@ Currently, I am looking for **Research Internship** opportunities. I possess str
     *   **Academic Performance:** Merit Student of Yanshan University; Recipient of Multiple University-level Scholarships.
     *   **Standardized Tests:**
         *   **TOEFL:** 107 (Reading/Listening High Scores)
-        *   **GRE:** 336.5 (Verbal 165 + Quantitative 167 + writting 4.5)
+        *   **GRE:** 336.5 (Verbal 165 + Quantitative 167 + writing 4.5)
     *   **Relevant Coursework:** Introduction to AI, Object-Oriented Programming (C++), Python Programming, Data Structures, Discrete Mathematics, Algorithm Analysis.
 
 # 🔬 Research Interests
