@@ -17,7 +17,7 @@ Education
 ======
 *   **B.Eng. in Computer Science and Technology**, Yanshan University, China
     *   *Sept. 2024 - Present*
-    *   **GPA/Ranking:** Merit Student (Top %)
+    *   **GPA/Ranking:** Merit Student (Top 15 %)
     *   **Scholarships:** Recipient of Multiple University-level Scholarships.
 
 Standardized Tests
