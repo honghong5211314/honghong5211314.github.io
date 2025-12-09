@@ -16,36 +16,36 @@ redirect_from:
 Education
 ======
 *   **B.Eng. in Computer Science and Technology**, Yanshan University, China
-    *   *Sept. 2022 - Present*
+    *   *Sept. 2024 - Present*
     *   **GPA/Ranking:** Merit Student (Top %)
     *   **Scholarships:** Recipient of Multiple University-level Scholarships.
 
 Standardized Tests
 ======
 *   **TOEFL:** `107` (Reading/Listening High Scores)
-*   **GRE:** `332` (Verbal 165 + Quantitative 167) + AW 4.5
+*   **GRE:** `336.5` (Verbal 165 + Quantitative 167) + AW 4.5
 
 Research & Projects
 ======
 **Global Campus AI Algorithm Elite Competition**
-*   *Team Leader & Algorithm Developer* | *2024*
+*   *Team Leader & Algorithm Developer* | *2025*
 *   Led the team to win the **National First Prize**.
 *   Designed a deep learning model for visual recognition tasks using PyTorch.
 *   Implemented data augmentation strategies to improve model robustness on small datasets.
 *   Optimized the backbone network (ResNet variants) to balance inference speed and accuracy.
 
 **"Challenge Cup" Entrepreneurship Plan**
-*   *Core Member* | *2023*
+*   *Core Member* | *2025*
 *   Won the **Provincial Award** for a tech-driven entrepreneurship proposal.
 *   Responsible for the technical feasibility study and system architecture design.
 *   Drafted the technical section of the business plan, explaining AI application scenarios to non-technical judges.
 
 Honors & Awards
 ======
-*   **National First Prize**, The 7th Global Campus AI Algorithm Elite Competition, 2024
-*   **National Second Prize**, National College Student English Competition (NECCS), 2024
-*   **Provincial Award**, "Challenge Cup" Entrepreneurship Plan Competition, 2023
-*   **Merit Student**, Yanshan University (Awarded to top students), 2023
+*   **National First Prize**, The 7th Global Campus AI Algorithm Elite Competition, 2025
+*   **National Second Prize**, National College Student English Competition (NECCS), 2025
+*   **Provincial Award**, "Challenge Cup" Entrepreneurship Plan Competition, 2025
+*   **Merit Student**, Yanshan University (Awarded to top students), 2025
 *   **Excellent Class Cadre**, Yanshan University
 *   **University Scholarship** (Multiple times)
 
@@ -56,7 +56,7 @@ Skills
 *   **Tools & Platforms:** Git, Linux, Docker, VS Code
 *   **Hardware/Embedded:** Basic Embedded Systems Development
 *   **Languages:** 
-    *   English (TOEFL 107 / GRE 332)
+    *   English (TOEFL 107 / GRE 336.5)
     *   Chinese (Native)
 
 <!-- 
